@@ -24,3 +24,35 @@
 | 65.0.3284.0  |  mac64-2.25   |    ✕   |
 | 65.0.3284.0  |  mac64-2.24   |    ✕   |
 | 65.0.3284.0  |  mac64-2.23   |    ✕   |
+
+
+These tests are been tested :
+
+iMac:
+
+  Model Name:	iMac
+  Model Identifier:	iMac14,2
+  Processor Name:	Intel Core i5
+  Processor Speed:	3.2 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	6 MB
+  Memory:	8 GB
+  Boot ROM Version:	IM142.0123.B00
+  SMC Version (system):	2.15f7
+  Serial Number (system):	C02NH05AF8J9
+  Hardware UUID:	0FB03AF3-CBBA-5905-989D-07BD321FFEF0
+
+JAVA: 
+java version "9"
+Java(TM) SE Runtime Environment (build 9+181)
+Java HotSpot(TM) 64-Bit Server VM (build 9+181, mixed mode)
+
+Maven:
+Apache Maven 3.5.0 (ff8f5e7444045639af65f6095c62210b5713f426; 2017-04-04T04:39:06+09:00)
+Maven home: /usr/local/Cellar/maven/3.5.0/libexec
+Java version: 9, vendor: Oracle Corporation
+Java home: /Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home
+Default locale: en_JP, platform encoding: UTF-8
+OS name: "mac os x", version: "10.13.1", arch: "x86_64", family: "mac"
