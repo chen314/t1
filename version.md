@@ -30,9 +30,9 @@ The Environmental Configuration for this version test is given below:
 
 
 - JAVA: 
-    --java version "9"
-    --Java(TM) SE Runtime Environment (build 9+181)
-    --Java HotSpot(TM) 64-Bit Server VM (build 9+181, mixed mode)
+  1 java version "9"
+  1 Java(TM) SE Runtime Environment (build 9+181)
+  1 Java HotSpot(TM) 64-Bit Server VM (build 9+181, mixed mode)
 
 - Maven:
     Apache Maven 3.5.0 (ff8f5e7444045639af65f6095c62210b5713f426; 2017-04-04T04:39:06+09:00)
