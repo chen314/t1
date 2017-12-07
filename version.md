@@ -26,29 +26,15 @@
 | 65.0.3284.0  |  mac64-2.23   |    ✕   |
 
 
-These tests are been tested :
-
-#iMac:
-
-  Model Name:	iMac
-  Model Identifier:	iMac14,2
-  Processor Name:	Intel Core i5
-  Processor Speed:	3.2 GHz
-  Number of Processors:	1
-  Total Number of Cores:	4
-  L2 Cache (per Core):	256 KB
-  L3 Cache:	6 MB
-  Memory:	8 GB
+The Environmental Configuration for this version test is given below:
 
 
-
-
-#JAVA: 
+- JAVA: 
 java version "9"
 Java(TM) SE Runtime Environment (build 9+181)
 Java HotSpot(TM) 64-Bit Server VM (build 9+181, mixed mode)
 
-#Maven:
+- Maven:
 Apache Maven 3.5.0 (ff8f5e7444045639af65f6095c62210b5713f426; 2017-04-04T04:39:06+09:00)
 Maven home: /usr/local/Cellar/maven/3.5.0/libexec
 Java version: 9, vendor: Oracle Corporation
